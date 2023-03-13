@@ -1,0 +1,19 @@
+.html , body{
+    margin: 0%;
+    padding: 0%;
+}
+.suraj-Logo{
+    height: 20px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+
+.footer a{
+    text-decoration:none ;
+    color: blue;
+}
+.footer a:hover{
+color: rgb(28, 123, 211);
+}
+ 
